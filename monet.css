@@ -2,3 +2,7 @@ body {
      background: url('https://upload.wikimedia.org/wikipedia/commons/2/29/Claude_Monet_037.jpg') no-repeat center center fixed;
      background-size:100% 100%;
  }
+
+.container {
+    padding: 80px 120px;
+}
